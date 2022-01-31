@@ -6,13 +6,24 @@ To design a wire frame for a website.
 ## DESIGN STEPS:
 
 ### Step 1:
-Write your design steps here 
+Create a New document.
 
 ### Step 2:
-Write your design steps here
+Resize the canvas.
+
+### Step 3:
+Save the document and export the file as Single web page with Clickable Prototype HTML Template.
 
 ## OUTPUT:
-include your output screenshots 
+### Home page:
+![output](home.png)
+
+### About page:
+![output](about.png)
+
+### Achievement page:
+![output](achievement.png)
+
 
 
 ## Result:
