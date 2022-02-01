@@ -16,13 +16,13 @@ Save the document and export the file as Single web page with Clickable Prototyp
 
 ## OUTPUT:
 ### Home page:
-![output](home.png)
+![output](pic1.png)
 
 ### About page:
-![output](about.png)
+![output](pic2.png)
 
 ### Achievement page:
-![output](achievement.png)
+![output](pic3.png)
 
 
 
