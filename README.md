@@ -17,7 +17,7 @@ Save the document and export the file as Single web page with Clickable Prototyp
 ## OUTPUT:
 ### Home page:
 
-![pic1](https://user-images.githubusercontent.com/93427205/151908564-7ebe43e8-4b8c-4ddf-9ebe-f6dcb0adacbc.png)
+![pic1](/pic1.png)
 
 
 ### About page:
