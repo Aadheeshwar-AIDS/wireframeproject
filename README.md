@@ -16,14 +16,17 @@ Save the document and export the file as Single web page with Clickable Prototyp
 
 ## OUTPUT:
 ### Home page:
-![output](pic1.png)
+
+![pic1](https://user-images.githubusercontent.com/93427205/151908564-7ebe43e8-4b8c-4ddf-9ebe-f6dcb0adacbc.png)
+
 
 ### About page:
-![output](pic2.png)
+![pic2](https://user-images.githubusercontent.com/93427205/151908572-3da39993-b592-478a-9669-a65de781d5ce.png)
+
 
 ### Achievement page:
-![output](pic3.png)
 
+![pic3](https://user-images.githubusercontent.com/93427205/151908586-7f356086-fd2f-4231-8369-1d0af3e9e3c1.png)
 
 
 ## Result:
