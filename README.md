@@ -17,7 +17,7 @@ Save the document and export the file as Single web page with Clickable Prototyp
 ## OUTPUT:
 ### Home page:
 
-![pic1](/pic1.png)
+![pic1](./pic1.png)
 
 
 ### About page:
